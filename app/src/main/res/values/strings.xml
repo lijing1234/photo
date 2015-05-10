@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PhotoBrowse</string>
+    <string name="title_activity_photo_browse">PhotoBrowseActivity</string>
+
+    <string name="sem_download">\uf019</string>
+
+</resources>
